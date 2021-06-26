@@ -4,9 +4,9 @@
         <title>Auto Geral: Entregas - Appcast</title>
         <item>
             <title>Versão 1.2.7-PROD</title>
-            <description>Versão atual do app</description>
+            <description>Corrigindo alerta de atualização disponível</description>
             <pubDate>Sab., 26 Jun 2021 10:50:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=br.com.autogeral.entregas_app" sparkle:version="1.15.0" sparkle:os="android" />
+            <enclosure url="https://play.google.com/store/apps/details?id=br.com.autogeral.entregas_app" sparkle:version="1.2.7-PROD" sparkle:os="android" />
         </item>
     </channel>
 </rss>
