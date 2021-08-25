@@ -3,10 +3,10 @@
     <channel>
         <title>Auto Geral: Entregas - Appcast</title>
         <item>
-            <title>Versão 1.2.7-PROD</title>
-            <description>Corrigindo alerta de atualização disponível</description>
-            <pubDate>Sab., 26 Jun 2021 10:50:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=br.com.autogeral.entregas_app" sparkle:version="1.2.7-PROD" sparkle:os="android" />
+            <title>Versão 1.3.5-PROD</title>
+            <description>Agora os motoristas poderão, assim que terminarem as entregas colocar o km de retorno\nPossibilidade de ver os contatos do cliente e hora de saída na tela de entregas</description>
+            <pubDate>Wed., 25 Aug 2021 18:00:00 +0000</pubDate>
+            <enclosure url="https://play.google.com/store/apps/details?id=br.com.autogeral.entregas_app" sparkle:version="1.3.5-PROD" sparkle:os="android" />
         </item>
     </channel>
 </rss>
