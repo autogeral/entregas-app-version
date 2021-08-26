@@ -4,7 +4,8 @@
         <title>Auto Geral Autopeças: tudo para carros e caminhões - Appcast</title>
         <item>
             <title>Versão 1.5.0</title>
-            <description>Adicionado pagamento por cartão direto pelo aplicativo\nAgora usuários que não possuíam cadastro anteriormente na Auto Geral podem se cadastrar</description>
+            <description>Adicionado pagamento por cartão direto pelo aplicativo
+            Agora usuários que não possuíam cadastro anteriormente na Auto Geral podem se cadastrar</description>
             <pubDate>Wed., 25 Aug 2021 18:00:00 +0000</pubDate>
             <enclosure url="https://play.google.com/store/apps/details?id=br.com.autogeral.ecommerce_app" sparkle:version="1.5.0" sparkle:os="android" />
         </item>
