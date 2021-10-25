@@ -3,12 +3,12 @@
     <channel>
         <title>Auto Geral: Entregas - Appcast</title>
         <item>
-            <title>Versão 1.4.3-PROD</title>
-            <description>- Agora os motoristas vão poder escanear os volumes que saíram das lojas tanto na caga quanto na descarga.
-- Pode-se buscar os volumes na loja atual para carrega-las e descarrega-las.
-            - Ajuste em descarregar os volumes</description>
+            <title>Versão 1.5.0-PROD</title>
+            <description>- Verificações para o km de saida
+            - Ajustes nas telas de volumes
+            </description>
             <pubDate>Wed., 23 Set 2021 18:00:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=br.com.autogeral.entregas_app" sparkle:version="1.4.3-PROD" sparkle:os="android" />
+            <enclosure url="https://play.google.com/store/apps/details?id=br.com.autogeral.entregas_app" sparkle:version="1.5.0-PROD" sparkle:os="android" />
         </item>
     </channel>
 </rss>
