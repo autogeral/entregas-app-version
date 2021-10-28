@@ -3,12 +3,11 @@
     <channel>
         <title>Auto Geral: Entregas - Appcast</title>
         <item>
-            <title>Versão 1.5.0-PROD</title>
-            <description>- Verificações para o km de saida
-            - Ajustes nas telas de volumes
+            <title>Versão 1.5.1-PROD</title>
+            <description>- Ajuste no dark mode (modo escuro)
             </description>
             <pubDate>Wed., 23 Set 2021 18:00:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=br.com.autogeral.entregas_app" sparkle:version="1.5.0-PROD" sparkle:os="android" />
+            <enclosure url="https://play.google.com/store/apps/details?id=br.com.autogeral.entregas_app" sparkle:version="1.5.1-PROD" sparkle:os="android" />
         </item>
     </channel>
 </rss>
