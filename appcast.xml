@@ -3,13 +3,12 @@
     <channel>
         <title>Auto Geral: Entregas - Appcast</title>
         <item>
-            <title>Versão 1.5.3-PROD</title>
+            <title>Versão 1.6.0-PROD</title>
             <description>
-            - Ajustes no Dark Mode
-            - Confirmar entrega realizada
+            - Alterações para o motoristas registrarem os volumes para as rotas internas da empresa
             </description>
-            <pubDate>Wed., 16 Nov 2021 18:00:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=br.com.autogeral.entregas_app" sparkle:version="1.5.3-PROD" sparkle:os="android" />
+            <pubDate>Wed., 29 Jan 2021 12:00:00 +0000</pubDate>
+            <enclosure url="https://play.google.com/store/apps/details?id=br.com.autogeral.entregas_app" sparkle:version="1.6.0-PROD" sparkle:os="android" />
         </item>
     </channel>
 </rss>
